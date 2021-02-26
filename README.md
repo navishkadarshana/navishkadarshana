@@ -35,7 +35,7 @@ const navishka = {
 
 <em><b>As a self-motivated and responsible person, I believe on one sentence, <b>"The riskiest thing is to take no risks."</b> 😊</em>
 
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/Navishka155" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="20" width="40" /></a>
 <a href="https://linkedin.com" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="40" /></a>
