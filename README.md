@@ -1,5 +1,5 @@
 <h2>I'm Navishka Darshana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="270">
+<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="230">
 <p><em>Software Engineer | youtuber | Designer </em></p>
 
 
