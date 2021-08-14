@@ -1,5 +1,5 @@
 <h2>I'm Navishka Darshana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="230">
+<img align='right' src="https://media.tenor.com/images/dc545e5a0f93c9b2bf1d4f0af54ebbff/tenor.gif" width="230">
 <p><em>Software Engineer | youtuber | Designer </em></p>
 
 
@@ -17,7 +17,7 @@ const navishka = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            jsFrameworks: ["React", "Angular", "react-native"],
+            jsFrameworks: ["React", "Angular", "react-native", "HTML", "css"],
             css: ["bootstrap"]
             java: ["java FX"]
         },
@@ -25,7 +25,7 @@ const navishka = {
             js: ["node", "express", "jQuery"],
             JavaFrameworks: ["Spring","Hibernate"]
         },
-        databases: ["mongo", "MySql"],
+        databases: ["mongo", "MySql", "firebase"],
     },
     architecture: ["Single page applications","MVC Architecture",
                    "Layerd Architecture","client server architecture"],
