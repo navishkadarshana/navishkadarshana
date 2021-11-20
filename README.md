@@ -31,7 +31,7 @@ const navishka = {
                    "Layerd Architecture","client server architecture"],
     tools: ["intellij IDEA","Postman","webStorm","FileZilla","android studio",
             "adobeXD","vs code","photoshop","netbeans","eclips"],
-    operating system: ["windows","Kali Linux","ubuntu","Linux Mint"]
+    operatingSystem: ["windows","Kali Linux","ubuntu","Linux Mint"]
 };
 ```
 
