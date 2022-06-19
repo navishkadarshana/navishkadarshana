@@ -10,39 +10,38 @@
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://navishkadarshana.000webhostapp.com/)](https://navishkadarshana.000webhostapp.com/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=navishkadarshana.navishkadarshana)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
+<p align="left">
+<a href="https://www.linkedin.com/in/navishka-darshana-975215195/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="40" /></a>
+<a href="https://www.hackerrank.com/navishkadarshana?hr_r=1" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="20" width="40" /></a>
+<a href="https://www.youtube.com/c/NavishkaDarshana" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="20" width="40" /></a>
+</p>
+
+
+## <img src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4legr2d.gif" width="70"> Skills  
 
 ```javascript
-const navishka = {
+const navishka_darshana = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java"],
+    code: ["Javascript", "Typescript", "Java", "Python"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             jsFrameworks: ["React", "Angular", "react-native", "HTML", "css"],
-            css: ["bootstrap"]
+            css: ["bootstrap"],
             java: ["java FX"]
         },
         backEnd: {
-            js: ["node", "express", "jQuery"],
+            js: ["node", "express", "jQuery", "next"],
             JavaFrameworks: ["Spring","Hibernate"]
         },
         databases: ["mongo", "MySql", "firebase"],
+        VCS : ["GitHub"]
     },
-    architecture: ["Single page applications","MVC Architecture",
-                   "Layerd Architecture","client server architecture"],
-    tools: ["intellij IDEA","Postman","webStorm","FileZilla","android studio",
-            "adobeXD","vs code","photoshop","netbeans","eclips"],
-    operatingSystem: ["windows","Kali Linux","ubuntu","Linux Mint"]
+    architecture: ["Single page applications","MVC Architecture", "Layerd Architecture","client server architecture"],
+    tools: ["intellij IDEA","Postman","webStorm","FileZilla","android studio", "adobeXD","vs code","photoshop","netbeans","eclips", "dataGrip", "pyCharm"],
+    operatingSystem: ["windows","Kali Linux","ubuntu","Linux Mint"],
+    other:["Machine learning", "artificial intelligence"]
 };
 ```
-
-<em><b>As a self-motivated and responsible person, I believe on one sentence, <b>"The riskiest thing is to take no risks."</b> 😊</em>
-
-<p align="center">
-<a href="https://twitter.com/Navishka155" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="20" width="40" /></a>
-<a href="https://linkedin.com" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="20" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="20" width="40" /></a>
-<a href="https://www.youtube.com/channel/UChR9gNsMg5qOxtUZj8oZ3LA" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" height="20" width="40" /></a>
-</p>
-  
