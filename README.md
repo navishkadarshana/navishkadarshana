@@ -1,11 +1,13 @@
 <h2>I'm Navishka Darshana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
-<img align='right' src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4ld57sp.gif" width="230">
-<p><em>Software Engineer | youtuber | Designer </em></p>
+<img align='right' src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4ld57sp.gif" width="200">
+<p>Software Engineer | Tech Enthusiast</p>
+
+<p>I am Navishka Darshana, a computer science student, an avid IT professional as well as a software engineer.</p>
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Navishka155?label=Follow)](https://twitter.com/intent/follow?screen_name=Navishka155)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/Navishka155?label=Follow)](https://twitter.com/intent/follow?screen_name=Navishka155) -->
 ![GitHub followers](https://img.shields.io/github/followers/navishkadarshana?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://navishkadarshana.000webhostapp.com/)](https://navishkadarshana.000webhostapp.com/)
+<!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://navishkadarshana.000webhostapp.com/)](https://navishkadarshana.000webhostapp.com/) -->
 ![](https://visitor-badge.glitch.me/badge?page_id=navishkadarshana.navishkadarshana)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
