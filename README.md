@@ -1,6 +1,6 @@
 <h2>I'm Navishka Darshana <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
 <img align='right' src="https://raw.githubusercontent.com/navishkadarshana/navishkadarshana/main/animation_500_l4ld57sp.gif" width="200">
-<p>Software Engineer | DevOps| Tech Enthusiast</p>
+<p>Software Engineer | DevOps | Tech Enthusiast</p>
 
 <p>I am Navishka Darshana, a computer science student, an avid IT professional as well as a software engineer.</p>
 
