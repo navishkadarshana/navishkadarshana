@@ -24,24 +24,68 @@
 ```javascript
 const navishka_darshana = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "Python"],
+    code: ["JavaScript", "TypeScript", "Java", "Python", "SQL", "Shell", "HTML", "CSS"],
     technologies: {
-        mobileApp: ["Android App"],
+        mobileApp: ["Android App", "React Native"],
         frontEnd: {
-            jsFrameworks: ["React", "Angular", "react-native", "HTML", "css"],
-            css: ["bootstrap"],
-            java: ["java FX"]
+            jsFrameworks: ["React", "Angular", "Next.js"],
+            css: ["Bootstrap", "Tailwind CSS"],
+            java: ["JavaFX"]
         },
         backEnd: {
-            js: ["node", "express", "jQuery", "next"],
-            JavaFrameworks: ["Spring","Hibernate"]
+            js: ["Node.js", "Express", "jQuery", "Next.js"],
+            javaFrameworks: ["Spring Boot", "Spring MVC", "Hibernate"]
         },
-        databases: ["mongo", "MySql", "firebase"],
-        VCS : ["GitHub"]
+        databases: ["MongoDB", "MySQL", "Firebase", "PostgreSQL"],
+        VCS: ["Git", "GitHub", "Bitbucket"]
     },
-    architecture: ["Single page applications","MVC Architecture", "Layerd Architecture","client server architecture"],
-    tools: ["intellij IDEA","Postman","webStorm","FileZilla","android studio", "adobeXD","vs code","photoshop","netbeans","eclips", "dataGrip", "pyCharm"],
-    operatingSystem: ["windows","Kali Linux","ubuntu","Linux Mint"],
-    other:["Machine learning", "artificial intelligence"]
+    architecture: [
+        "Monolithic Architecture", 
+        "Microservices", 
+        "Single Page Applications", 
+        "MVC Architecture", 
+        "Layered Architecture", 
+        "Client-Server Architecture"
+    ],
+    tools: [
+        "IntelliJ IDEA", "VS Code", "PyCharm", "WebStorm", "NetBeans", "Eclipse", "DataGrip",
+        "Android Studio", "Postman", "Adobe XD", "Photoshop", "FileZilla",
+        "Docker", "Docker Compose", "Maven", "Gradle", "Nginx", "SonarQube"
+    ],
+    devOps: [
+        "CI/CD Pipelines", 
+        "GitHub Actions", 
+        "GitLab CI", 
+        "AWS ECS (Fargate)", 
+        "Amazon ECR", 
+        "AWS CodePipeline", 
+        "AWS CodeBuild",
+        "AWS Secrets Manager", 
+        "Dockerization", 
+        "Auto Scaling", 
+        "Load Balancing", 
+        "Infrastructure as Code (IaC)", 
+        "Monitoring & Logging", 
+        "Linux Server Management", 
+        "Nginx Configuration", 
+        "SonarQube Code Quality Analysis"
+    ],
+    cloud: [
+        "AWS (ECS, EC2, S3, IAM, Secrets Manager, RDS, CloudWatch, CodePipeline, CodeBuild, Route 53, VPC, ALB, CloudFront)", 
+        "Firebase"
+    ],
+    operatingSystem: ["Windows", "Kali Linux", "Ubuntu", "Linux Mint", "Amazon Linux", "Alpine Linux"],
+    other: [
+        "Machine Learning", 
+        "Artificial Intelligence", 
+        "RESTful APIs", 
+        "WebSocket", 
+        "Moodle Integration", 
+        "Active Directory Integration",
+        "PDF Generation (PDFShift, Flying Saucer)", 
+        "Security Best Practices", 
+        "SSL Configuration", 
+        "Domain & DNS Setup"
+    ]
 };
 ```
